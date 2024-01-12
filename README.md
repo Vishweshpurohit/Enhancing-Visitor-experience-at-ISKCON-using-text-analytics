@@ -36,7 +36,7 @@ There are various review types, with a higher number of positive feedbacks and f
 | Income Level              | 0.010             |
 
 
-![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/007cba88-1004-4899-8c8e-11c970ffe31e)
+## Exploratory Data Analysis
 
 
 The number of reviews collected has significantly increased in recent times, with the highest volume of reviews gathered during the second quarter of 2017
