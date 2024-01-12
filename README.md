@@ -10,9 +10,7 @@ The collected reviews had issues like multiple languages, spelling errors, and d
 
 Classification of mixed and neutral classes in reviews presented difficulties in the analysis process
 
-![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/9a2064a6-4d40-4271-923d-673a945fa563)
 
-![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/ad662e74-317c-4430-b33e-21312e4f3b7c)
 
 With four review sources, TripAdvisor has the most reviews, highlighting its importance for gathering visitor feedback.
 ![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/8da74140-b999-4a40-978f-27c9b4854fc6)
