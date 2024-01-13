@@ -1,8 +1,8 @@
 
 ![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-Experience-At-ISKCON-Using-Text-Analytics/assets/111001693/4ff495b3-a2fb-4f91-95b4-bd7c9dd5baa8)
 
-## Origin And Services
-# ISKCON Overview
+# Origin And Services
+## ISKCON Overview
 
 Prabhupada went to the US in 1965 to start a global Hare Krishna movement. ISKCON was founded by Prabhupada in NYC in 1966.
 
@@ -18,7 +18,7 @@ ISKCON's online presence team collected visitor feedback from social media to im
 
 ISKCON sought an automated solution for sentiment analysis, trends, emotions, and top issues from visitor feedback.
 
-### Challenges in Feedback
+## Challenges in Feedback
 
 The collected reviews had issues like multiple languages, spelling errors, and duplication. Classification of mixed and neutral classes in reviews presented difficulties in the analysis process.
 
