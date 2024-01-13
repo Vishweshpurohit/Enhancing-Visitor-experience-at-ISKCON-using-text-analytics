@@ -4,21 +4,25 @@
 # Origin And Services
 - **ISKCON Overview**
 
-Prabhupada went to the US in 1965 to start a global Hare Krishna movement. ISKCON was founded by Prabhupada in NYC in 1966. Within 11 years, he established 100+ centers, temples, and various projects. ISKCON began operations in Bangalore in 1987 and later built a large temple in 1997. Now they have around 100+ temples. ISKCON Bangalore focuses on social work and well-being through various initiatives. They conduct activities like pilgrimages, cow protection, food distribution, and spiritual programs.
+In 1965, Prabhupada embarked on a journey to the United States with the vision of initiating a global Hare Krishna movement. The inception of ISKCON took place in NYC in 1966 under Prabhupada's guidance. Over the next 11 years, he successfully established more than 100 centers, temples, and diverse projects.
+
+The expansion of ISKCON extended to Bangalore in 1987, culminating in the construction of a significant temple in 1997. Presently, ISKCON boasts a network of over 100 temples worldwide.
+
+ISKCON Bangalore is dedicated to social work and well-being, actively engaging in various initiatives. Their activities encompass pilgrimages, cow protection, food distribution, and spiritual programs, reflecting their commitment to holistic community service.
 
 - **Challenges Faced**
 
-ISKCON's online presence team collected visitor feedback from social media to improve services but faced manual effort challenges. ISKCON sought an automated solution for sentiment analysis, trends, emotions, and top issues from visitor feedback. The collected reviews had issues like multiple languages, spelling errors, and duplication. Classification of mixed and neutral classes in reviews presented difficulties in the analysis process.
+The online presence team of ISKCON gathered feedback from social media to enhance services. However, they encountered challenges in manually handling the feedback. ISKCON was in need of an automated solution for analyzing sentiments, identifying trends, emotions, and addressing top issues derived from visitor feedback. The reviews collected exhibited issues such as multiple languages, spelling errors, and duplication. Analyzing mixed and neutral classes in the reviews posed challenges during the analysis process.
 
 # Problem Statement
 
-ISKCON's online presence team collected visitor feedback from social media to improve services but faced manual effort challenges
+Feedback Collection: The ISKCON online presence team actively gathers visitor feedback from social media platforms to enhance their services.
 
-ISKCON sought an automated solution for sentiment analysis, trends, emotions, and top issues from visitor feedback
+Manual Effort Challenges: Despite the commitment to improving services, the team faced challenges in manually handling the collected feedback.
 
-The collected reviews had issues like multiple languages, spelling errors, and duplication
+Automated Solution Need: Recognizing the limitations of manual efforts, ISKCON sought an automated solution to perform sentiment analysis, identify trends, emotions, and address top issues derived from visitor feedback.
 
-
+Review Challenges: The collected reviews presented challenges such as multiple languages, spelling errors, and duplication. Additionally, the classification of mixed and neutral classes in the reviews posed difficulties during the analysis process.
 
 With four review sources, TripAdvisor has the most reviews, highlighting its importance for gathering visitor feedback.
 ![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/8da74140-b999-4a40-978f-27c9b4854fc6)
