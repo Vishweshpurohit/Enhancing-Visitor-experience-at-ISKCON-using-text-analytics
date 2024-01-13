@@ -28,6 +28,12 @@ The problem statement primarily handles 4 points:
 
 # Data Overiew:
 
+The data was given for a period of 5 years:
+- 5685 reviews
+- 4 review sources
+- Reveiws from Jan 2013 to Aug 2017
+- 6 categories of rating
+
 ![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/fe8cd9ed-d83a-42d6-b50b-7baa9f445419)
 
 ![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/63ead463-5df3-4a08-a808-bd323178b4c4)
