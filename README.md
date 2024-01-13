@@ -1,22 +1,26 @@
 
 ![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-Experience-At-ISKCON-Using-Text-Analytics/assets/111001693/4ff495b3-a2fb-4f91-95b4-bd7c9dd5baa8)
 
-## ORIGIN
-Prabhupada went to the US in 1965 to start a global Hare Krishna movement.
-ISKCON was founded by Prabhupada in NYC in 1966
+## Origin And Services
+# ISKCON Overview
 
-Within 11 years, he established 100+ centers, temples, and various projects. ISKCON began operations in Bangalore in 1987 and later built a large temple in 1997.Now they have around 100+ temples
+Prabhupada went to the US in 1965 to start a global Hare Krishna movement. ISKCON was founded by Prabhupada in NYC in 1966.
+
+Within 11 years, he established 100+ centers, temples, and various projects. ISKCON began operations in Bangalore in 1987 and later built a large temple in 1997. Now they have around 100+ temples.
 
 ISKCON Bangalore focuses on social work and well-being through various initiatives. They conduct activities like pilgrimages, cow protection, food distribution, and spiritual programs.
 
+## Challenges Faced
 
-ISKCON's online presence team collected visitor feedback from social media to improve services but faced manual effort challenges
+ISKCON's online presence team collected visitor feedback from social media to improve services but faced manual effort challenges.
 
-ISKCON sought an automated solution for sentiment analysis, trends, emotions, and top issues from visitor feedback
+## Automated Solution
 
-The collected reviews had issues like multiple languages, spelling errors, and duplication
+ISKCON sought an automated solution for sentiment analysis, trends, emotions, and top issues from visitor feedback.
 
-Classification of mixed and neutral classes in reviews presented difficulties in the analysis process
+### Challenges in Feedback
+
+The collected reviews had issues like multiple languages, spelling errors, and duplication. Classification of mixed and neutral classes in reviews presented difficulties in the analysis process.
 
 
 
