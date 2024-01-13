@@ -46,7 +46,7 @@ With four review sources, TripAdvisor has the most reviews, highlighting its imp
 
 # Data Issues
 
-# Handling Data Issues
+## Handling Data Issues
 
 | Issue                   | Remedy                                                             |
 |-------------------------|--------------------------------------------------------------------|
