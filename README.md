@@ -45,23 +45,16 @@ The data was given for a period of 5 years:
 
 With four review sources, TripAdvisor has the most reviews, highlighting its importance for gathering visitor feedback. There are various review types, with a higher number of positive feedbacks and fewer queries and suggestions.
 
+# Data Issues
 
-### Variable Importance
+# Handling Data Issues
 
-| Variable                  | Importance Score |
-|---------------------------|-------------------|
-| Credit Offense Amount     | 0.352             |
-| Census Tract              | 0.215             |
-| Average Age               | 0.128             |
-| Population                | 0.092             |
-| Median Income             | 0.071             |
-| Male Population           | 0.032             |
-| Female Population         | 0.029             |
-| Total Housing             | 0.027             |
-| Owners                    | 0.020             |
-| Renters                   | 0.014             |
-| Underserved               | 0.010             |
-| Income Level              | 0.010             |
+| Issue                   | Remedy                                                             |
+|-------------------------|--------------------------------------------------------------------|
+| Duplicate Review        | Combine columns 'Source', 'Review By', and 'Review Date'. Filter duplicates based on this combined column. |
+| Data Inconsistencies    | Address inconsistencies between review subject and review text columns by [your remedy here]. |
+| Review text in languages other than English   | Performed language detection to identify and remove non-English text. |
+
 
 
 ## Exploratory Data Analysis
