@@ -16,6 +16,8 @@ The online presence team of ISKCON gathered feedback from social media to enhanc
 
 # Problem Statement
 
+The problem statement primarily handles 4 points:
+
 - 1. Feedback Collection: The ISKCON online presence team actively gathers visitor feedback from social media platforms to enhance their services.
 
 - 2. Manual Effort Challenges: Despite the commitment to improving services, the team faced challenges in manually handling the collected feedback.
@@ -23,6 +25,10 @@ The online presence team of ISKCON gathered feedback from social media to enhanc
 - 3. Automated Solution Need: Recognizing the limitations of manual efforts, ISKCON sought an automated solution to perform sentiment analysis, identify trends, emotions, and address top issues derived from visitor feedback.
 
 - 4. Review Challenges: The collected reviews presented challenges such as multiple languages, spelling errors, and duplication. Additionally, the classification of mixed and neutral classes in the reviews posed difficulties during the analysis process.
+
+# Data Overiew:
+
+![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/fe8cd9ed-d83a-42d6-b50b-7baa9f445419)
 
 
 With four review sources, TripAdvisor has the most reviews, highlighting its importance for gathering visitor feedback.
