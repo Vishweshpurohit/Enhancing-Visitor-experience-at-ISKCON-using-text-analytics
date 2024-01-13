@@ -35,9 +35,11 @@ The data was given for a period of 5 years:
 ![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/fe8cd9ed-d83a-42d6-b50b-7baa9f445419)
 
 - Reveiws from Jan 2013 to Aug 2017
+  
 ![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/63ead463-5df3-4a08-a808-bd323178b4c4)
 
 - 6 categories of rating
+  
 ![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/4a6a6585-43a3-4245-94db-e3e5d07727f3)
 
 With four review sources, TripAdvisor has the most reviews, highlighting its importance for gathering visitor feedback. There are various review types, with a higher number of positive feedbacks and fewer queries and suggestions.
