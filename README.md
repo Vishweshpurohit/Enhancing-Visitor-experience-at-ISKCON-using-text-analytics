@@ -1,5 +1,5 @@
 
-![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/4ff495b3-a2fb-4f91-95b4-bd7c9dd5baa8)
+![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-Experience-At-ISKCON-Using-Text-Analytics/assets/111001693/4ff495b3-a2fb-4f91-95b4-bd7c9dd5baa8)
 
 ## ORIGIN
 Prabhupada went to the US in 1965 to start a global Hare Krishna movement.
