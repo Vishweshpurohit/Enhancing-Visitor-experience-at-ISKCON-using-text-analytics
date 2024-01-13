@@ -1,6 +1,14 @@
 
 ![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/4ff495b3-a2fb-4f91-95b4-bd7c9dd5baa8)
 
+## ORIGIN
+Prabhupada went to the US in 1965 to start a global Hare Krishna movement.
+ISKCON was founded by Prabhupada in NYC in 1966
+
+Within 11 years, he established 100+ centers, temples, and various projects. ISKCON began operations in Bangalore in 1987 and later built a large temple in 1997.Now they have around 100+ temples
+
+ISKCON Bangalore focuses on social work and well-being through various initiatives. They conduct activities like pilgrimages, cow protection, food distribution, and spiritual programs.
+
 
 ISKCON's online presence team collected visitor feedback from social media to improve services but faced manual effort challenges
 
