@@ -22,6 +22,14 @@ ISKCON sought an automated solution for sentiment analysis, trends, emotions, an
 
 The collected reviews had issues like multiple languages, spelling errors, and duplication. Classification of mixed and neutral classes in reviews presented difficulties in the analysis process.
 
+# Problem Statement
+
+ISKCON's online presence team collected visitor feedback from social media to improve services but faced manual effort challenges
+
+ISKCON sought an automated solution for sentiment analysis, trends, emotions, and top issues from visitor feedback
+
+The collected reviews had issues like multiple languages, spelling errors, and duplication
+
 
 
 With four review sources, TripAdvisor has the most reviews, highlighting its importance for gathering visitor feedback.
