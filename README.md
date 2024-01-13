@@ -73,7 +73,8 @@ According to the manual labels, positive reviews consistently outnumber negative
 
 ## Sentiment Analysis
 
-![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/1be8a363-5238-469f-bbc4-31648bc6b895)
+![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/7ab0451e-f257-46b7-a6dc-4497c7ecbecc)
+
 
 The prevalence of positive sentiment in reviews, ranging from 80 to 95%, indicates that individuals are more inclined to share favorable experiences about devotional places rather than offering criticism
 
