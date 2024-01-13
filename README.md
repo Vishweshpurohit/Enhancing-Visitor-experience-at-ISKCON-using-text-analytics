@@ -30,6 +30,9 @@ The problem statement primarily handles 4 points:
 
 ![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/fe8cd9ed-d83a-42d6-b50b-7baa9f445419)
 
+![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/63ead463-5df3-4a08-a808-bd323178b4c4)
+
+![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/4a6a6585-43a3-4245-94db-e3e5d07727f3)
 
 With four review sources, TripAdvisor has the most reviews, highlighting its importance for gathering visitor feedback.
 ![image](https://github.com/Vishweshpurohit/Enhancing-Visitor-experience-at-ISKCON-using-text-analytics/assets/111001693/8da74140-b999-4a40-978f-27c9b4854fc6)
